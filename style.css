@@ -1,0 +1,21 @@
+.cabeza{
+    color: rgba(255, 255, 255, 0.821);
+    text-decoration: color(srgb rgb(92, 86, 255) rgb(28, 145, 255) rgb(14, 14, 171));
+    background-color: rgb(10, 39, 114);
+    text-align: center;
+}
+
+cajaPadre{
+    box-sizing: border-box;
+    border-radius: 25px;
+    margin: 20px;
+    
+    
+}
+
+.caja{
+    font-family: monospace;
+    display: inline-block;
+    border-radius: 25px;
+    margin: 50px;
+}
